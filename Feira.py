@@ -1,0 +1,7 @@
+print("Digite uma fruta:")
+fruta = str(input())
+print("Digite um legume:")
+legume = str(input())
+print("Digite uma verdura:")
+verdura = str(input())
+print("Aqui estão os nomes de uma fruta, um legume e uma verdura: ",fruta,verdura,legume)
